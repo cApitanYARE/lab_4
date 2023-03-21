@@ -1,0 +1,120 @@
+body{
+    background-color: white;
+}
+
+img{
+    padding: 10px 0 0 0;
+      display: block;
+      margin: 0 auto;
+
+}
+
+.opptions{
+    text-align: center;
+    font-family: Trebuchet MS, sans-serif;
+}
+
+p{
+    margin: 5px auto;
+}
+
+.apple{
+    display: inline-block;
+    width: 200px;
+    height: 350px;
+    background-color: #F1F1F1;
+    border-radius: 10px;
+    border: 3px solid #DADADA;
+    margin: 0 40px 20px 40px;
+}
+
+.huawei{
+    display: inline-block;
+    width: 200px;
+    height: 350px;
+    background-color: #F1F1F1;
+    border-radius: 10px;
+    border: 3px solid #DADADA;
+    margin: 0 40px 20px 40px;
+}
+
+.lenovo{
+    display: inline-block;
+    width: 200px;
+    height: 350px;
+    background-color: #F1F1F1;
+    border-radius: 10px;
+    border: 3px solid #DADADA;
+    margin: 0 40px 20px 40px;
+}
+
+.nokia{
+    display: inline-block;
+    width: 200px;
+    height: 350px;
+    background-color: #F1F1F1;
+    border-radius: 10px;
+    border: 3px solid #DADADA;
+    margin: 0 40px 20px 40px;
+}
+
+.pixus{
+    display: inline-block;
+    width: 200px;
+    height: 350px;
+    background-color: #F1F1F1;
+    border-radius: 10px;
+    border: 3px solid #DADADA;
+    margin: 0 40px 20px 40px;
+}
+
+.realme{
+    display: inline-block;
+    width: 200px;
+    height: 350px;
+    background-color: #F1F1F1;
+    border-radius: 10px;
+    border: 3px solid #DADADA;
+    margin: 0 40px 20px 40px;
+}
+
+.oscal{
+    display: inline-block;
+    width: 200px;
+    height: 350px;
+    background-color: #F1F1F1;
+    border-radius: 10px;
+    border: 3px solid #DADADA;
+    margin: 0 40px 20px 40px;
+}
+
+.samsung{
+    display: inline-block;
+    width: 200px;
+    height: 350px;
+    background-color: #F1F1F1;
+    border-radius: 10px;
+    border: 3px solid #DADADA;
+    margin: 0 40px 20px 40px;
+}
+
+.sigma{
+    display: inline-block;
+    width: 200px;
+    height: 350px;
+    background-color: #F1F1F1;
+    border-radius: 10px;
+    border: 3px solid #DADADA;
+    margin: 0 40px 20px 40px;
+}
+
+.teclast{
+    display: inline-block;
+    width: 200px;
+    height: 350px;
+    background-color: #F1F1F1;
+    border-radius: 10px;
+    border: 3px solid #DADADA;
+    margin: 0 40px 20px 40px;
+}
+
